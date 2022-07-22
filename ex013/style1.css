@@ -1,0 +1,11 @@
+main {
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.1em;
+    font-weight: normal; 
+    font-style: italic; */
+    
+    /* shorthand font 
+        font: style weight size family
+    */
+    font: italic normal 1.1em 'Gill Sans', 'Gill Sans MT'
+}

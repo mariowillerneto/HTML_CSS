@@ -1,0 +1,13 @@
+body {
+    font: 1em Arial, Helvetica, sans-serif;
+    background-color: lightseagreen;
+}
+
+#caixinha {
+    background-color: snow;
+    margin: auto;
+    width: 400px;
+    padding: 1px 10px;
+    box-shadow: 3px 6px 8px black;
+    border-radius: 10px 30px;
+}

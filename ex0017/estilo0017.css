@@ -1,0 +1,44 @@
+h1 { /* Block-Level */
+    /* Display = Muda a característica de um elemento 
+    display: inline; */
+    background-color: lightgray;
+    width: 518px;
+    height: 300px;
+    text-align: center;
+    /* Border = A borda do conteúdo */
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: red; */
+    /* SHORTHAND */
+    border: 10px solid red;
+
+    /* Padding = Espaçamento entre o conteúdo (Content) e a borda (Border) */
+    /* padding-top: 18px;
+    padding-right: 54px;
+    padding-bottom: 18px;
+    padding-left: 54px; */
+    /* SHORTHAND */
+    padding: 18px 54px;
+
+    /* Margin = Área da margem que cobre o contéudo */
+    /* margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px; */
+    /* SHORTHAND */
+    margin: 10px auto;
+
+    /* Ouline = Linha que separa a margem (Margin) da borda (Border) */
+    /* outline-width: 5px;
+    outline-style: solid;
+    outline-color: lightgreen; */
+    /* SHORTHAND */
+    outline: 5px solid lightgreen;
+}
+
+a { /* Inline-Level */
+    display: block;
+    border-width: 10px;
+    border-style: solid;
+    border-color: lightcoral;
+}
